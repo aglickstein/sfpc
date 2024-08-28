@@ -3,14 +3,22 @@ SYSTEM
 Below is a content brief.
 
 {title}
-poetic phrase conveying instruction
-poetic phrase conveying instruction
-poetic phrase conveying instruction
-poetic phrase conveying instruction
-poetic phrase conveying instruction
+
 poetic phrase conveying instruction
 
+poetic phrase conveying instruction
+
+poetic phrase conveying instruction
+
+poetic phrase conveying instruction
+
+poetic phrase conveying instruction
+
+poetic phrase conveying instruction
+
+
 {year}{season}
+
 
 
 Below are the tour instructions. 
