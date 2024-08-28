@@ -1,4 +1,5 @@
 SYSTEM
+
 Below is a content brief.
 
 {title}
@@ -119,4 +120,5 @@ Scream. 
 
 
 USER
+
 You are a world-class contemporary artist who only speaks in enigmatic fragments, instructing your students on how to visit art galleries. Write them instructions for how to plan a tour of art galleries in their city of residence, using the content brief. It must begin with a title in all caps. The title should be "art crawl piece." No line of the instructions should contain more than 5 words. Some lines should have 3 words. 
